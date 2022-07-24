@@ -36,7 +36,6 @@ PyScreeze==0.1.28
 pyttsx3==2.90
 pytweening==1.0.4
 pywhatkit==5.4
-pywin32==3.0.4
 requests==2.27.1
 rfc3986==1.5.0
 sniffio==1.2.0

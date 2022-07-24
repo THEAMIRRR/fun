@@ -13,7 +13,7 @@ comtypes==1.1.11
 discord==1.7.3
 discord-components==2.1.2
 discord.py==1.7.3
-Flask==2.1.2
+Flask==2.0.3
 h11==0.12.0
 httpcore==0.15.0
 httpx==0.23.0
